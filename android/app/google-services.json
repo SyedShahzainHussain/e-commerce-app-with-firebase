@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1042816162198",
+    "firebase_url": "https://flutter-shop-app-d9399-default-rtdb.firebaseio.com",
+    "project_id": "flutter-shop-app-d9399",
+    "storage_bucket": "flutter-shop-app-d9399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042816162198:android:0395a952fee9dc4b8825b7",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042816162198-1chh6vj3lftulj3l35buv2bhnrotjcrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpymb4KiK311dvNheceDENiJ2LIElG1Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042816162198-1chh6vj3lftulj3l35buv2bhnrotjcrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042816162198:android:603ed69d4065af248825b7",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042816162198-mt4vf68rclvgl2h9jitldlfnptfj5cs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce",
+            "certificate_hash": "cf75b6e6ed6afaa9f356f8510c86614b2d8de15d"
+          }
+        },
+        {
+          "client_id": "1042816162198-1chh6vj3lftulj3l35buv2bhnrotjcrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpymb4KiK311dvNheceDENiJ2LIElG1Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042816162198-1chh6vj3lftulj3l35buv2bhnrotjcrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
